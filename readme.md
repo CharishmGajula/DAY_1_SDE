@@ -1,3 +1,4 @@
+<pre>
 # Day 1 Assignment
 
 ## Part 1 
@@ -67,6 +68,6 @@ for(let i=1;i<=20;i++)
 <img width="335" alt="part1_medium" src="https://github.com/user-attachments/assets/121cc614-ed3d-4682-98a7-914b614311e4" />
 
 
-
+</pre>
 
 
