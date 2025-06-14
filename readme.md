@@ -13,5 +13,4 @@ const favoriteFood="MUDHAPAPPU_AVAKAYA"
 console.log(favoriteFood)
 
 ### OUTPUT
-<img width="374" alt="part1_easy" src="https://github.com/user-attachments/assets/e73ebf89-9802-4a64-ba46-7cc5cf73e218" />
 
