@@ -62,7 +62,7 @@ const users=[
         id:3,
         username:"Sameeksha_Golla"
     }
-]
+];
 
 console.log(users.find(user=>user.id==3))
 

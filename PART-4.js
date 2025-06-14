@@ -38,7 +38,7 @@ function getHighAchievers(students,passingScore)
     console.log(student_names)
 
 }
-getHighAchievers(students,75)
+//getHighAchievers(students,75)
 
 //[OUTPUT]
 //[ 'CHARISHMA', 'SAMEEKSHA' ]
@@ -80,4 +80,3 @@ const game=createGame()
 game(9)
 game(10)
 game(5)
-console.log(game.secretNumber)
