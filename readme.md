@@ -13,6 +13,7 @@ const favoriteFood="MUDHAPAPPU_AVAKAYA"
 
 console.log(favoriteFood)
 [OUTPUT]
+
 <img width="374" alt="part1_easy" src="https://github.com/user-attachments/assets/efaeb4be-3058-44ed-9f21-19b8555642a6" />
 
 
@@ -39,6 +40,7 @@ else
 </pre>
 
 [OUTPUT]
+
 <img width="324" alt="part1_easy2" src="https://github.com/user-attachments/assets/cbc1e63a-65d5-4829-9889-ade2f94d491b" />
 
 
@@ -67,6 +69,7 @@ for(let i=1;i<=20;i++)
 </pre>
 
 [OUTPUT]
+
 <img width="335" alt="part1_medium" src="https://github.com/user-attachments/assets/121cc614-ed3d-4682-98a7-914b614311e4" />
 
 
