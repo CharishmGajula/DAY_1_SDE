@@ -12,6 +12,7 @@ const favoriteFood="MUDHAPAPPU_AVAKAYA"
 </pre>
 
 console.log(favoriteFood)
+
 [OUTPUT]
 
 <img width="374" alt="part1_easy" src="https://github.com/user-attachments/assets/efaeb4be-3058-44ed-9f21-19b8555642a6" />
